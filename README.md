@@ -88,7 +88,7 @@ Passionate about building modern, scalable web and mobile applications with clea
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/rao-shahzaib-32588a39a
 - 📧 Email: raoshahzaib961@gmail.com
 
 ---
